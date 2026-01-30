@@ -1,0 +1,7 @@
+# Ignore model weights and checkpoints
+*.bin
+*.safetensors
+*.pt
+*.pth
+checkpoint-*/
+upload*
