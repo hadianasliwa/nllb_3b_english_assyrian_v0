@@ -4,4 +4,4 @@
 *.pt
 *.pth
 checkpoint-*/
-upload*
+venv
